@@ -118,5 +118,24 @@
         </div>
     </div>
 	</div>
+	<div class="flex flex-col flex-auto h-full p-6">
+        <div
+          class="flex flex-col flex-auto flex-shrink-0 rounded-2xl bg-gray-100 h-full p-4"
+        >
+          <div class="flex flex-col h-full overflow-x-auto mb-4">
+            <div class="flex flex-col h-full">
+              <div class="grid grid-cols-12 gap-y-2">
+                <div class="col-start-3 col-end-10 p-1 rounded-lg">      
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_of_TWICE.svg/1200px-Logo_of_TWICE.svg.png"/>
+                </div>
+                <div class="col-start-1 col-end-8 p-3 rounded-lg">
+                  <div class="flex flex-row items-center">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 	</div>
 </div>
