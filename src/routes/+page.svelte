@@ -88,7 +88,7 @@
           <div class="flex flex-col space-y-1 mt-4 -mx-2">
         </div>
         	<div class="text-sm font-semibold mt-2">Selamat datang</div>
-        	<div class="text-xs text-gray-500">Silahkan Masukan Chanel Chat</div>
+        	<div class="text-xs text-gray-500">Silahkan, Masukan Chanel Chat</div>
         <div class="flex flex-col mt-8">
             <div class="flex flex-row items-center justify-between text-xs">
 				<span class="font-bold">Channel</span>
