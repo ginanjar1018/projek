@@ -36,7 +36,7 @@
 	  supabase
 		.from('comments')
 		.select('*')
-        .filter('channel','eq', id)
+    .filter('channel','eq', id)
 		// @ts-ignore
 		.then(({error, data}) => set(data))
   
